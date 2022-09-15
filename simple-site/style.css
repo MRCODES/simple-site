@@ -1,0 +1,35 @@
+* {
+
+                box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                font-family: poppins;
+                line-height: 100%;
+                text-align: center;
+                text-decoration: none;
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                text-rendering: geometricPrecision;
+                image-rendering: optimizeQuality;
+                text-transform: uppercase;
+                user-select: none;
+                -webkit-user-select: none;
+                -webkit-touch-callout: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                scroll-behavior: smooth;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+
+            /*border: red 1px solid;*/
+    
+}
+
+
+div {
+
+    background-color: tan;
+    height: 500px;
+    border-bottom: 1px solid white;
+}
